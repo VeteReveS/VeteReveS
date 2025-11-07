@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Привет! Я Дарья — аналитик данных из Санкт-Петербурга
 
-<!--
-**VeteReveS/VeteReveS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📊 Увлекаюсь аналитикой продаж, логистики и визуализацией данных
+- 🔧 Работаю с Power BI, Excel, Python (Pandas, Plotly), SQL
+- 🎯 Сейчас строю портфолио на GitHub
+- 📫 Связь: [Telegram @Cool_Grey](https://t.me/Cool_Grey) | riavin@yandex.ru
 
-Here are some ideas to get you started:
+### 💡 Над чем работаю
+- [Логистический кейс: British American Tobacco & Grando](ссылка_будет_позже)
+- [Анализ B2B-продаж](ссылка_будет_позже)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Технологии
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
