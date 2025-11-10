@@ -3,7 +3,10 @@
 - 📊 Увлекаюсь аналитикой продаж, логистики и визуализацией данных
 - 🔧 Работаю с Power BI, Excel, Python (Pandas, Plotly), SQL
 - 🎯 Сейчас строю портфолио на GitHub
-- 📫 Связь: [Telegram @Cool_Grey](https://t.me/Cool_Grey) | riavin@yandex.ru
+
+📫 **Связь:**  
+[![Telegram](https://img.shields.io/badge/Telegram-%40Cool_Grey-0088cc?logo=telegram&logoColor=white)](https://t.me/Cool_Grey)  
+[![Email](https://img.shields.io/badge/Email-riavin@yandex.ru-red?logo=yandex&logoColor=white)](mailto:riavin@yandex.ru)
 
 ### 💡 Над чем работаю
 - [Логистический кейс: British American Tobacco & Grando](ссылка_будет_позже)
